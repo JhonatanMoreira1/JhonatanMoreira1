@@ -67,29 +67,8 @@ I'm Jhonatan, a young programmer who uses his free time to create personal proje
 
 ### 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-moreira-99331b306/)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ALPHAMODSOFC/)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jhonathanm836@gmail.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jhon.moreiradev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/alph4mods)
 
----
 
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JhonatanMoreira1&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMoreira1&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
-  />
-
-</p>
